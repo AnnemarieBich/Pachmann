@@ -1,0 +1,183 @@
+1531657219a:1:{s:10:"profil.htm";a:6:{s:8:"fileName";s:10:"profil.htm";s:7:"content";s:4581:"description = "SECTION 4"
+==
+<div class="content-menu">
+            
+            
+            
+            <div class="profil">       
+                
+                <div class="main-title">Profil</div>
+                
+                <div class="pr-1">    
+                    <div class="pr-col">
+                        <div class="pr-left">
+                            <h3 class="pr-cat">Jahrgang</h3>    
+                            <p class="pr-p">1961</p>
+                        </div>    
+                        <hr class="pr-line"/>
+                        <div class="pr-left">    
+                            <h3 class="pr-cat">Spielalter</h3>
+                            <p class="pr-p">40-55 Jahre</p>
+                        </div>    
+                        <hr class="pr-line"/> 
+                        <div class="pr-left">     
+                            <h3 class="pr-cat">Größe</h3>
+                            <p class="pr-p">164 cm</p>
+                        </div>
+                        <hr class="pr-line"/>
+                        <div class="pr-left">   
+                            <h3 class="pr-cat">Augenfarbe</h3>
+                            <p class="pr-p">braun</p>
+                        </div>    
+                        <hr class="pr-line"/>
+                        <div class="pr-left">
+                            <h3 class="pr-cat">Haare</h3>
+                            <p class="pr-p">Halbglatze</p>
+                        </div>
+                        <hr class="pr-line"/>
+                    </div>    
+                    <div class="pr-col">
+                        <div class="pr-left">       
+                            <h3 class="pr-cat">Gesang</h3>
+                            <p class="pr-p">Bariton <br>(Klassik, Chanson)
+                                            <br>Hörpobe 1 
+                                            <br><audio controls>
+                                                <source src="{{'/Musik/KannEineFrau.mp3'|media }}" type="audio/mpeg">
+                                                            Sorry - Ihr Browser hat keine Unterstützung für dieses Audio-Format.
+                                                </audio>
+                                            <br>Hörprobe 2 
+                                            <br><audio controls>
+                                                <source src="{{'Musik/OWelt.mp3'|media }}" type="audio/mpeg">
+                                                            Sorry - Ihr Browser hat keine Unterstützung für dieses Audio-Format.
+                                                </audio>
+                                            
+                                            </p>
+                        </div>
+                        <hr class="pr-line"/>
+                        <div class="pr-left">       
+                            <h3 class="pr-cat">Instrumente</h3>
+                            <p class="pr-p">Gitarre
+                                            <br>Klarinette
+                                            <br>alle Blockflöten</p>
+                        </div>
+                        <hr class="pr-line"/>
+                        <div class="pr-left">        
+                            <h3 class="pr-cat">Mundart</h3>
+                            <p class="pr-p">Sächsisch
+                                            <br>Süd-Thüringisch (Fränkisch)
+                                            </p>
+                        </div>    
+                    </div>
+                    <div class="pr-col">
+                        <div class="pr-left">   
+                            <h3 class="pr-cat">Tanzen</h3>
+                            <p class="pr-p">Standard
+                                            <br>Musical Dance
+                                            </p>
+                        </div>    
+                        <hr class="pr-line"/>
+                        <div class="pr-left">   
+                            <h3 class="pr-cat">Sport</h3>
+                            <p class="pr-p">Bühnenfechten
+                                            <br>Bühnenkampf
+                                            <br>kleine Stunts
+                                            </p>
+                        </div>     
+                        <hr class="pr-line"/>
+                    </div>
+                    
+                
+                </div>    
+
+                </div>    
+</div>";s:5:"mtime";i:1530699973;s:6:"markup";s:4552:"<div class="content-menu">
+            
+            
+            
+            <div class="profil">       
+                
+                <div class="main-title">Profil</div>
+                
+                <div class="pr-1">    
+                    <div class="pr-col">
+                        <div class="pr-left">
+                            <h3 class="pr-cat">Jahrgang</h3>    
+                            <p class="pr-p">1961</p>
+                        </div>    
+                        <hr class="pr-line"/>
+                        <div class="pr-left">    
+                            <h3 class="pr-cat">Spielalter</h3>
+                            <p class="pr-p">40-55 Jahre</p>
+                        </div>    
+                        <hr class="pr-line"/> 
+                        <div class="pr-left">     
+                            <h3 class="pr-cat">Größe</h3>
+                            <p class="pr-p">164 cm</p>
+                        </div>
+                        <hr class="pr-line"/>
+                        <div class="pr-left">   
+                            <h3 class="pr-cat">Augenfarbe</h3>
+                            <p class="pr-p">braun</p>
+                        </div>    
+                        <hr class="pr-line"/>
+                        <div class="pr-left">
+                            <h3 class="pr-cat">Haare</h3>
+                            <p class="pr-p">Halbglatze</p>
+                        </div>
+                        <hr class="pr-line"/>
+                    </div>    
+                    <div class="pr-col">
+                        <div class="pr-left">       
+                            <h3 class="pr-cat">Gesang</h3>
+                            <p class="pr-p">Bariton <br>(Klassik, Chanson)
+                                            <br>Hörpobe 1 
+                                            <br><audio controls>
+                                                <source src="{{'/Musik/KannEineFrau.mp3'|media }}" type="audio/mpeg">
+                                                            Sorry - Ihr Browser hat keine Unterstützung für dieses Audio-Format.
+                                                </audio>
+                                            <br>Hörprobe 2 
+                                            <br><audio controls>
+                                                <source src="{{'Musik/OWelt.mp3'|media }}" type="audio/mpeg">
+                                                            Sorry - Ihr Browser hat keine Unterstützung für dieses Audio-Format.
+                                                </audio>
+                                            
+                                            </p>
+                        </div>
+                        <hr class="pr-line"/>
+                        <div class="pr-left">       
+                            <h3 class="pr-cat">Instrumente</h3>
+                            <p class="pr-p">Gitarre
+                                            <br>Klarinette
+                                            <br>alle Blockflöten</p>
+                        </div>
+                        <hr class="pr-line"/>
+                        <div class="pr-left">        
+                            <h3 class="pr-cat">Mundart</h3>
+                            <p class="pr-p">Sächsisch
+                                            <br>Süd-Thüringisch (Fränkisch)
+                                            </p>
+                        </div>    
+                    </div>
+                    <div class="pr-col">
+                        <div class="pr-left">   
+                            <h3 class="pr-cat">Tanzen</h3>
+                            <p class="pr-p">Standard
+                                            <br>Musical Dance
+                                            </p>
+                        </div>    
+                        <hr class="pr-line"/>
+                        <div class="pr-left">   
+                            <h3 class="pr-cat">Sport</h3>
+                            <p class="pr-p">Bühnenfechten
+                                            <br>Bühnenkampf
+                                            <br>kleine Stunts
+                                            </p>
+                        </div>     
+                        <hr class="pr-line"/>
+                    </div>
+                    
+                
+                </div>    
+
+                </div>    
+</div>";s:4:"code";N;s:11:"description";s:9:"SECTION 4";}}

@@ -1,0 +1,58 @@
+1531657219a:1:{s:21:"eventList/default.htm";a:6:{s:8:"fileName";s:21:"eventList/default.htm";s:7:"content";s:857:"==
+{% set devents = __SELF__.events %}
+
+<table class="table">
+
+{% for y,eYear in devents %}
+{% for m,eMonth in eYear %}
+{% for d,eDay in eMonth %}
+        <tr data-request-data="year:{{ y }},month:{{ m }},day:{{ d }}">
+            <td class="list-icon">
+                <div class="holder">
+                   <div class="month {{ MyM.color }}">
+                        <p>{{ (m~'/1/'~y)|date('M') }}</p> 
+                    </div>
+                    <div class="day">
+                        <p>{{ d }}</p>
+                    </div>
+                </div>
+            </td>
+            <td class="list-event">                
+{% for eEvent in eDay %}
+    {% partial '@event' ev = eEvent %}
+{% endfor %}
+            </td>
+        </tr>
+{% endfor %}<!-- eDay -->
+{% endfor %}<!-- eMonth -->
+{% endfor %}<!-- eYear -->
+
+</table>";s:5:"mtime";i:1530556822;s:6:"markup";s:854:"{% set devents = __SELF__.events %}
+
+<table class="table">
+
+{% for y,eYear in devents %}
+{% for m,eMonth in eYear %}
+{% for d,eDay in eMonth %}
+        <tr data-request-data="year:{{ y }},month:{{ m }},day:{{ d }}">
+            <td class="list-icon">
+                <div class="holder">
+                   <div class="month {{ MyM.color }}">
+                        <p>{{ (m~'/1/'~y)|date('M') }}</p> 
+                    </div>
+                    <div class="day">
+                        <p>{{ d }}</p>
+                    </div>
+                </div>
+            </td>
+            <td class="list-event">                
+{% for eEvent in eDay %}
+    {% partial '@event' ev = eEvent %}
+{% endfor %}
+            </td>
+        </tr>
+{% endfor %}<!-- eDay -->
+{% endfor %}<!-- eMonth -->
+{% endfor %}<!-- eYear -->
+
+</table>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

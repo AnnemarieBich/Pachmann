@@ -1,0 +1,45 @@
+1531657219a:1:{s:10:"buehne.htm";a:6:{s:8:"fileName";s:10:"buehne.htm";s:7:"content";s:1043:"description = "SECTION 7"
+==
+<div class="content-pure">
+            <div class="carousel">
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/weill.jpg'|theme }}" alt="">
+                </div>
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/musical2.jpg'|theme }}" alt="">
+                </div>
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/krug.jpg'|theme }}" alt="">
+                </div>
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/operette.jpg'|theme }}" alt="">
+                </div>
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/weill2.jpg'|theme }}" alt="">
+                </div>
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/parasit_9.jpg'|theme }}" alt="">
+                </div>
+            </div>
+        </div>";s:5:"mtime";i:1530441634;s:6:"markup";s:1014:"<div class="content-pure">
+            <div class="carousel">
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/weill.jpg'|theme }}" alt="">
+                </div>
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/musical2.jpg'|theme }}" alt="">
+                </div>
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/krug.jpg'|theme }}" alt="">
+                </div>
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/operette.jpg'|theme }}" alt="">
+                </div>
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/weill2.jpg'|theme }}" alt="">
+                </div>
+                <div class="carousel-cell">
+                    <img src="{{ 'assets/img/buehne/parasit_9.jpg'|theme }}" alt="">
+                </div>
+            </div>
+        </div>";s:4:"code";N;s:11:"description";s:9:"SECTION 7";}}

@@ -1,0 +1,85 @@
+title = "Home"
+url = "/"
+layout = "default"
+is_hidden = 0
+
+[ListEvents eventList]
+color = "green"
+loadstyle = 0
+title_max = 100
+usePermissions = 0
+category = "{{ :cat }}"
+month = "{{ :month }}"
+year = "{{ :year }}"
+dayspast = 0
+daysfuture = 356
+relations[] = "event"
+raw_data = 0
+descending = 0
+==
+<!--SECTION 1----INTRO-->        
+{% partial 'start' %}
+
+<!--SECTIONS--WITH--CONTENT-->
+
+<!--SECTION 2----PORTRAIT-->
+<div class="section sec2" data-anchor="portrait-2">
+    <div class="sec22">   
+        <!--SECTION 2----MENU-->       
+        {% partial 'portrait' %}
+    </div>    
+</div>
+<!--SECTION 3----VITA-->
+<div class="section sec3" data-anchor="vita">
+    <div class="sec33">   
+        <!--SECTION 4----PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        {% partial 'vita' %}
+    </div>    
+</div>
+<!--SECTION 4----TERMINE-->
+<div class="section sec5" data-anchor="aktuell">
+    <div class="sec55">   
+        <!------PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        <div class="content-menu">
+            <div class="aktuell">
+                   <div class="main-title">Aktuelle Termine</div>
+                {% component 'eventList' %}
+            </div>
+        </div>
+    </div>    
+</div>
+<!--SECTION 5----PROFIL-->
+<div class="section sec4" data-anchor="profil">
+    <div class="sec44">   
+        <!--SECTION 5----PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        {% partial 'profil' %}
+    </div>    
+</div>
+
+
+<!--SECTION 6----REPERTOIRE-->
+<div class="section sec6" data-anchor="rep">
+    <div class="sec66">   
+        <!--SECTION 6----PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        {% partial 'repertoire' %}
+    </div>    
+</div>
+
+<!--SECTION 7----BÜHNE-->
+<div class="section sec7" data-anchor="buehne">
+    <div class="sec77">   
+        <!--SECTION 3----PLATZHALTER statt MENU später--> 
+        {% partial 'buehne'%}
+    </div>    
+</div>
+
+
+<!--SECTION 8----FOOTER-->
+{% partial 'kontakt' %}
+
+
+<!--ENDE-->

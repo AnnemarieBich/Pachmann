@@ -1,0 +1,150 @@
+1531674745a:1:{s:8:"home.htm";a:10:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:2107:"title = "Home"
+url = "/"
+layout = "default"
+is_hidden = 0
+
+[ListEvents eventList]
+color = "green"
+loadstyle = 0
+title_max = 100
+usePermissions = 0
+category = "{{ :cat }}"
+month = "{{ :month }}"
+year = "{{ :year }}"
+dayspast = 0
+daysfuture = 356
+relations[] = "event"
+raw_data = 0
+descending = 0
+==
+<!--SECTION 1----INTRO-->        
+{% partial 'start' %}
+
+<!--SECTIONS--WITH--CONTENT-->
+
+<!--SECTION 2----PORTRAIT-->
+<div class="section sec2" data-anchor="portrait-2">
+    <div class="sec22">   
+        <!--SECTION 2----MENU-->       
+        {% partial 'portrait' %}
+    </div>    
+</div>
+<!--SECTION 3----VITA-->
+<div class="section sec3" data-anchor="vita">
+    <div class="sec33">   
+        <!--SECTION 4----PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        {% partial 'vita' %}
+    </div>    
+</div>
+<!--SECTION 4----TERMINE-->
+<div class="section sec5" data-anchor="aktuell">
+    <div class="sec55">   
+        <!------PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        <div class="content-menu">
+            <div class="aktuell">
+                   <div class="main-title">Aktuelle Termine</div>
+                {% component 'eventList' %}
+            </div>
+        </div>
+    </div>    
+</div>
+<!--SECTION 5----PROFIL-->
+<div class="section sec4" data-anchor="profil">
+    <div class="sec44">   
+        <!--SECTION 5----PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        {% partial 'profil' %}
+    </div>    
+</div>
+
+
+<!--SECTION 6----REPERTOIRE-->
+<div class="section sec6" data-anchor="rep">
+    <div class="sec66">   
+        <!--SECTION 6----PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        {% partial 'repertoire' %}
+    </div>    
+</div>
+
+<!--SECTION 7----BÜHNE-->
+<div class="section sec7" data-anchor="buehne">
+    <div class="sec77">   
+        <!--SECTION 3----PLATZHALTER statt MENU später--> 
+        {% partial 'buehne'%}
+    </div>    
+</div>
+
+
+<!--SECTION 8----FOOTER-->
+{% partial 'kontakt' %}
+
+
+<!--ENDE-->";s:5:"mtime";i:1530693296;s:6:"markup";s:1809:"<!--SECTION 1----INTRO-->        
+{% partial 'start' %}
+
+<!--SECTIONS--WITH--CONTENT-->
+
+<!--SECTION 2----PORTRAIT-->
+<div class="section sec2" data-anchor="portrait-2">
+    <div class="sec22">   
+        <!--SECTION 2----MENU-->       
+        {% partial 'portrait' %}
+    </div>    
+</div>
+<!--SECTION 3----VITA-->
+<div class="section sec3" data-anchor="vita">
+    <div class="sec33">   
+        <!--SECTION 4----PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        {% partial 'vita' %}
+    </div>    
+</div>
+<!--SECTION 4----TERMINE-->
+<div class="section sec5" data-anchor="aktuell">
+    <div class="sec55">   
+        <!------PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        <div class="content-menu">
+            <div class="aktuell">
+                   <div class="main-title">Aktuelle Termine</div>
+                {% component 'eventList' %}
+            </div>
+        </div>
+    </div>    
+</div>
+<!--SECTION 5----PROFIL-->
+<div class="section sec4" data-anchor="profil">
+    <div class="sec44">   
+        <!--SECTION 5----PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        {% partial 'profil' %}
+    </div>    
+</div>
+
+
+<!--SECTION 6----REPERTOIRE-->
+<div class="section sec6" data-anchor="rep">
+    <div class="sec66">   
+        <!--SECTION 6----PLATZHALTER statt MENU später-->
+        <div class="space-left-transparent"></div>
+        {% partial 'repertoire' %}
+    </div>    
+</div>
+
+<!--SECTION 7----BÜHNE-->
+<div class="section sec7" data-anchor="buehne">
+    <div class="sec77">   
+        <!--SECTION 3----PLATZHALTER statt MENU später--> 
+        {% partial 'buehne'%}
+    </div>    
+</div>
+
+
+<!--SECTION 8----FOOTER-->
+{% partial 'kontakt' %}
+
+
+<!--ENDE-->";s:4:"code";N;s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:20:"ListEvents eventList";a:12:{s:5:"color";s:5:"green";s:9:"loadstyle";s:1:"0";s:9:"title_max";s:3:"100";s:14:"usePermissions";s:1:"0";s:8:"category";s:10:"{{ :cat }}";s:5:"month";s:12:"{{ :month }}";s:4:"year";s:11:"{{ :year }}";s:8:"dayspast";s:1:"0";s:10:"daysfuture";s:3:"356";s:9:"relations";a:1:{i:0;s:5:"event";}s:8:"raw_data";s:1:"0";s:10:"descending";s:1:"0";}}}

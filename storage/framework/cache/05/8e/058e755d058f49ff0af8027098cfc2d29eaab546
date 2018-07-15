@@ -1,0 +1,125 @@
+1531674746a:1:{s:11:"default.htm";a:7:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:2389:"description = "Default Layout"
+
+[ListEvents]
+color = "red"
+loadstyle = 0
+title_max = 100
+usePermissions = 0
+category = "{{ :cat }}"
+month = "{{ :month }}"
+year = "{{ :year }}"
+dayspast = 0
+daysfuture = 60
+relations[] = "event"
+raw_data = 0
+descending = 0
+==
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Hans-Georg Pachmann - {{ this.page.title }}</title>
+        <meta name="description" content="{{ this.page.meta_description }}">
+        <meta name="title" content="{{ this.page.meta_title }}">
+        <meta name="author" content="Annemarie Bich">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="generator" content="AnnemarieBich">
+        
+        <!--<link rel="icon" type="image/png" href="{{ 'assets/images/october.png'|theme }}">-->
+        
+        <link href="{{ 'assets/css/normalize.css'|theme }}" rel="stylesheet">
+        
+        <link href="https://cdn.jsdelivr.net/npm/fullpage.js@3.0.1/dist/fullpage.min.css">
+        
+        <link href="{{ 'assets/css/flickity.css'|theme }}" rel="stylesheet">
+        <link href="{{ 'assets/css/theme.css'|theme }}" rel="stylesheet">
+        <link href="{{ 'assets/css/platzhalter.css'|theme }}" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://use.typekit.net/nfy1zuq.css">
+        
+        {% styles %}
+    </head>
+    <body>
+
+    {% partial 'hamburgermenu' %}
+    {% partial 'fmenu' %}
+    <div id="fullpage"> 
+        {% page %}               
+    </div>    
+        
+
+        <!-- Scripts -->
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fullpage.js@3.0.1/vendors/scrolloverflow.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fullpage.js@3.0.1/dist/fullpage.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fullpage.js@3.0.1/dist/fullpage.extensions.min.js"></script>
+        <script src="{{ 'assets/js/modernizr-custom.js'|theme }}"></script>
+        <script src="{{ 'assets/js/flickity.pkgd.min.js'|theme }}"></script>
+        <script src="{{ 'assets/js/fitty.min.js'|theme }}"></script>
+        <script src="{{ 'assets/js/function.js'|theme }}"></script>
+        
+        
+        {% scripts %}
+        
+        {% framework extras %}
+        
+
+    </body>
+    
+</html>";s:5:"mtime";i:1531656516;s:6:"markup";s:2131:"<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Hans-Georg Pachmann - {{ this.page.title }}</title>
+        <meta name="description" content="{{ this.page.meta_description }}">
+        <meta name="title" content="{{ this.page.meta_title }}">
+        <meta name="author" content="Annemarie Bich">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="generator" content="AnnemarieBich">
+        
+        <!--<link rel="icon" type="image/png" href="{{ 'assets/images/october.png'|theme }}">-->
+        
+        <link href="{{ 'assets/css/normalize.css'|theme }}" rel="stylesheet">
+        
+        <link href="https://cdn.jsdelivr.net/npm/fullpage.js@3.0.1/dist/fullpage.min.css">
+        
+        <link href="{{ 'assets/css/flickity.css'|theme }}" rel="stylesheet">
+        <link href="{{ 'assets/css/theme.css'|theme }}" rel="stylesheet">
+        <link href="{{ 'assets/css/platzhalter.css'|theme }}" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://use.typekit.net/nfy1zuq.css">
+        
+        {% styles %}
+    </head>
+    <body>
+
+    {% partial 'hamburgermenu' %}
+    {% partial 'fmenu' %}
+    <div id="fullpage"> 
+        {% page %}               
+    </div>    
+        
+
+        <!-- Scripts -->
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fullpage.js@3.0.1/vendors/scrolloverflow.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fullpage.js@3.0.1/dist/fullpage.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fullpage.js@3.0.1/dist/fullpage.extensions.min.js"></script>
+        <script src="{{ 'assets/js/modernizr-custom.js'|theme }}"></script>
+        <script src="{{ 'assets/js/flickity.pkgd.min.js'|theme }}"></script>
+        <script src="{{ 'assets/js/fitty.min.js'|theme }}"></script>
+        <script src="{{ 'assets/js/function.js'|theme }}"></script>
+        
+        
+        {% scripts %}
+        
+        {% framework extras %}
+        
+
+    </body>
+    
+</html>";s:4:"code";N;s:11:"description";s:14:"Default Layout";s:10:"ListEvents";a:12:{s:5:"color";s:3:"red";s:9:"loadstyle";s:1:"0";s:9:"title_max";s:3:"100";s:14:"usePermissions";s:1:"0";s:8:"category";s:10:"{{ :cat }}";s:5:"month";s:12:"{{ :month }}";s:4:"year";s:11:"{{ :year }}";s:8:"dayspast";s:1:"0";s:10:"daysfuture";s:2:"60";s:9:"relations";a:1:{i:0;s:5:"event";}s:8:"raw_data";s:1:"0";s:10:"descending";s:1:"0";}}}

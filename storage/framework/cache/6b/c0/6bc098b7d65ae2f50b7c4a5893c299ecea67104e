@@ -1,0 +1,91 @@
+1531657219a:1:{s:11:"kontakt.htm";a:6:{s:8:"fileName";s:11:"kontakt.htm";s:7:"content";s:1878:"description = "SECTION 8"
+==
+<div class="section sec8" data-anchor="kontakt" style="-webkit-transform: translate3d(0,0,0);">
+        <div class="kontakt">
+            
+            <div class="email">
+                <h3>Hans-Georg Pachmann</h3>
+                <a href="mailto:info@hans-georg-pachmann.com">info@hans-georg-pachmann.com</a>
+                <p>+49 151 11929393</p>
+            </div> 
+            
+            <div class="impressum">
+                
+                <dl>
+                    <dt>Anschrift:</dt>                       
+                    <dd>H.-G. Pachmann</dd>
+                    <dd>Kleiststr. 1</dd>
+                    <dd>04157 Leipzig</dd>    
+                
+                    <dt>Portraitfotografie, Design &amp; Programmierung:</dt>
+                    <dd><a class="link" href="https://www.annemariebich.de">Annemarie Bich, 
+                        <br>Grafik Design &amp; 
+                        <br>Webdevelopment</a></dd> 
+                    
+                    <dt>Bildrechte:</dt>
+                    <dd>Hans-Georg Pachmann</dd>
+                    
+                    <dt>Haftungshinweis:</dt>
+                    <dt class="no-pad no-line">Hans-Georg Pachmann übernimmt keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</dt>
+                    
+                    <dt class="dist">
+                        <!-- Trigger/Open The Modal -->    
+                        <button><a href="../datenschutz">Datenschutz</a> </button>
+                    </dt>
+                </dl>
+                    
+            </div>
+            
+            <div>
+                <dl>
+                    <dt class="no-line">© Hans-Georg Pachmann, 2018</dt>
+                </dl>
+            </div>
+            
+                  
+    </div>
+</div>";s:5:"mtime";i:1530542771;s:6:"markup";s:1849:"<div class="section sec8" data-anchor="kontakt" style="-webkit-transform: translate3d(0,0,0);">
+        <div class="kontakt">
+            
+            <div class="email">
+                <h3>Hans-Georg Pachmann</h3>
+                <a href="mailto:info@hans-georg-pachmann.com">info@hans-georg-pachmann.com</a>
+                <p>+49 151 11929393</p>
+            </div> 
+            
+            <div class="impressum">
+                
+                <dl>
+                    <dt>Anschrift:</dt>                       
+                    <dd>H.-G. Pachmann</dd>
+                    <dd>Kleiststr. 1</dd>
+                    <dd>04157 Leipzig</dd>    
+                
+                    <dt>Portraitfotografie, Design &amp; Programmierung:</dt>
+                    <dd><a class="link" href="https://www.annemariebich.de">Annemarie Bich, 
+                        <br>Grafik Design &amp; 
+                        <br>Webdevelopment</a></dd> 
+                    
+                    <dt>Bildrechte:</dt>
+                    <dd>Hans-Georg Pachmann</dd>
+                    
+                    <dt>Haftungshinweis:</dt>
+                    <dt class="no-pad no-line">Hans-Georg Pachmann übernimmt keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</dt>
+                    
+                    <dt class="dist">
+                        <!-- Trigger/Open The Modal -->    
+                        <button><a href="../datenschutz">Datenschutz</a> </button>
+                    </dt>
+                </dl>
+                    
+            </div>
+            
+            <div>
+                <dl>
+                    <dt class="no-line">© Hans-Georg Pachmann, 2018</dt>
+                </dl>
+            </div>
+            
+                  
+    </div>
+</div>";s:4:"code";N;s:11:"description";s:9:"SECTION 8";}}

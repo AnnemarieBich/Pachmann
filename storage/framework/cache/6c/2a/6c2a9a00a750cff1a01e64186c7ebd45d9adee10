@@ -1,0 +1,51 @@
+1531657219a:1:{s:12:"portrait.htm";a:6:{s:8:"fileName";s:12:"portrait.htm";s:7:"content";s:1381:"description = "SECTION 2"
+==
+<div class="content-pure">
+            <div class="carousel">
+                <div class="carousel-cell">
+                    <img class="img-1" src="{{ 'assets/img/portraits/pachmann-web40.jpg'|theme }}" alt="Hans-Georg Pachmann - Schauspieler & Sänger">
+                </div>
+                <div class="carousel-cell">
+                    <img class="img-2" src="{{ 'assets/img/portraits/pachmann-web36.jpg'|theme }}" alt="Hans-Georg Pachmann - Schauspieler & Sänger">
+                </div>
+    
+                <div class="carousel-cell">
+                    <img class="img-3" src="{{ 'assets/img/portraits/pachmann-web10.jpg'|theme }}" alt="Hans-Georg Pachmann - Schauspieler & Sänger">
+                </div>
+                <div class="carousel-cell">
+                    <img class="img-4" src="{{ 'assets/img/portraits/start4.jpg'|theme }}" alt="Hans-Georg Pachmann - Schauspieler & Sänger">
+                </div>
+                
+                <div class="carousel-cell">
+                    <img class="img-5" src="{{ 'assets/img/portraits/start6.jpg'|theme }}" alt="Hans-Georg Pachmann - Schauspieler & Sänger">
+                </div>
+                <div class="carousel-cell">
+                    <img class="img-5" src="" alt="">
+                </div>
+               
+            </div>
+        </div>";s:5:"mtime";i:1530441696;s:6:"markup";s:1352:"<div class="content-pure">
+            <div class="carousel">
+                <div class="carousel-cell">
+                    <img class="img-1" src="{{ 'assets/img/portraits/pachmann-web40.jpg'|theme }}" alt="Hans-Georg Pachmann - Schauspieler & Sänger">
+                </div>
+                <div class="carousel-cell">
+                    <img class="img-2" src="{{ 'assets/img/portraits/pachmann-web36.jpg'|theme }}" alt="Hans-Georg Pachmann - Schauspieler & Sänger">
+                </div>
+    
+                <div class="carousel-cell">
+                    <img class="img-3" src="{{ 'assets/img/portraits/pachmann-web10.jpg'|theme }}" alt="Hans-Georg Pachmann - Schauspieler & Sänger">
+                </div>
+                <div class="carousel-cell">
+                    <img class="img-4" src="{{ 'assets/img/portraits/start4.jpg'|theme }}" alt="Hans-Georg Pachmann - Schauspieler & Sänger">
+                </div>
+                
+                <div class="carousel-cell">
+                    <img class="img-5" src="{{ 'assets/img/portraits/start6.jpg'|theme }}" alt="Hans-Georg Pachmann - Schauspieler & Sänger">
+                </div>
+                <div class="carousel-cell">
+                    <img class="img-5" src="" alt="">
+                </div>
+               
+            </div>
+        </div>";s:4:"code";N;s:11:"description";s:9:"SECTION 2";}}
