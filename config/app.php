@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => 'http://neu.hans-georg-pachmann.com/',
+    'url' => 'http://localhost:8888/pachmann/',
 
     /*
     |--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return [
     |
     */
 
-    'key' => 'pksbQTlb1RP3YgMXKfkJg5Hn7gv6pOcS',
+    'key' => 'glRrEGsF6cwSwCPRp2v41x1K761fgyud',
 
     'cipher' => 'AES-256-CBC',
 
